@@ -1,0 +1,12 @@
+.form_anketa {
+    padding: 40px;
+    background: #e8f5ff;
+    border-radius: 40px;
+    width: 80%;
+    margin: 0 auto;
+}
+.title_anketa p {
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 36px;
+}
